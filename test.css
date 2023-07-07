@@ -1,0 +1,9 @@
+*{
+    margin:0px;
+    padding:-0px;
+}
+.test{
+    color:blue;
+   /* cursor: pointer;*/
+   cursor: url("https://wallpapers.com/images/featured/priyanka-chopra-pictures-0fvtc1mzpau1apvn.jpg"),auto;
+}
